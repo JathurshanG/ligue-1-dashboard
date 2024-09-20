@@ -1,5 +1,8 @@
 # Ligue1 Team Performance Dashboard
 
+
+# Ce projet n'est plus d'actualité car la ligue étant racheté par McDo, nous avons plus accès a ces données 
+
 ## Project Overview
 This project is a comprehensive analysis and visualization tool for Ligue1 football team performances. It scrapes Ligue1 match scores and presents interactive visualizations using a Dash web application.
 
